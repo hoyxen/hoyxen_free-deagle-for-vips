@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Receive free deagle"
+	{
+		"en"			"You received your free Deagle."
+		"pt"			"Recebeste a tua Deagle grátis."
+	}
+}
