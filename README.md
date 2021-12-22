@@ -1,4 +1,4 @@
-[CS:GO] Free deagle for vips!
+[CS:GO] Free deagle for vips (!freedeagle)
 This plugin give one free deagle for vips.
 
 Small Video:
